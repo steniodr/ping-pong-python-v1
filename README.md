@@ -14,7 +14,7 @@
 <h2> Desenvolvido com </h2>
 
 <div align="center">
-  <img align="center" alt="html" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png">
+  <img align="center" alt="html" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png">
 </div>
 
 <h2 id="descricao"> Descrição </h2>
@@ -27,7 +27,7 @@ Primeira versão de um básico jogo de Ping Pong em Python, tendo como principal
 Escolha a sua dificuldade e teste suas habilidades não deixando com que a bola caia.
 
 <h2 id="demonstracao"> Demonstração </h2>
-<img src="https://github.com/steniodr/Genius-Game/tree/main/demo.png" alt="Demo Ping Pong Python" width="100%"/>
+<img src="https://github.com/steniodr/ping-pong-python-v1/blob/main/demo.png" alt="Demo Ping Pong Python" width="100%"/>
 
 <h4 align="center">
   Desenvolvido por <a href="https://github.com/steniodr" target="_blank">Stenio D. Rapchan</a>
